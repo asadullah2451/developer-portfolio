@@ -52,6 +52,17 @@ nav li {
 }
 
 /* banner style */
+.btn-primary-1 {
+  width: 180px;
+  height: 64px;
+  border: 2px solid #fd6e0a;
+  background: none;
+  border-radius: 5px;
+  font-size: 20px;
+  color: #fd6e0a;
+  margin-left: 20px;
+  padding: 0 10px;
+}
 .banner {
   display: flex;
   align-items: center;
@@ -200,9 +211,9 @@ main {
   line-height: 28px;
   margin-bottom: 30px;
 }
-.contact a{
-    text-decoration: none;
-    margin: 0 10px;
+.contact a {
+  text-decoration: none;
+  margin: 0 10px;
 }
 .contact {
   display: flex;
@@ -240,6 +251,6 @@ main {
   color: white;
   background: #fd6e0a;
 }
-footer{
-    background: #fff8f3;
+footer {
+  background: #fff8f3;
 }
